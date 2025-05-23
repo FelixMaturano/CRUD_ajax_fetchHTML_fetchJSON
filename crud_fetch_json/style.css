@@ -1,0 +1,19 @@
+nav{
+    text-align: center;
+}
+
+#content{
+    display: flex;
+    gap: 2rem;
+    border: 5px solid orange;
+    justify-content: center;
+    width: 680px;
+    margin: auto;
+}
+#menu li{
+    list-style-type: none;
+    
+}
+a{
+    text-decoration: none;
+}
